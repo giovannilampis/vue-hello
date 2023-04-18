@@ -8,7 +8,8 @@ createApp({
             // variabili vue 3
             message: "Hello VUE JS 3 !",
             urlImageGio: "./images/giogiogio.jpeg",
-            pictureGio: "Giovanni Lampis' yellow picture"
+            pictureGio: "Giovanni Lampis' yellow picture",
+            bootstrapClasses: "rounded-circle"
         }
     },
     methods: {
